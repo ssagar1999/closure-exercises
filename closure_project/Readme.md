@@ -1,6 +1,10 @@
+Got it ✅
+Here’s a **problem statement in Markdown** format for your students. It explains the goal, breaks down the challenge, and provides starter code skeletons for them to fill in.
+
+---
 
 ```markdown
-#  Challenge: Color Voting App (Using Closures & DOM)
+# 🎨 Challenge: Color Voting App (Using Closures & DOM)
 
 In this challenge, you will build a **Color Voting Application** where users can:  
 
@@ -16,7 +20,7 @@ The challenge is designed to help you understand:
 
 ---
 
-##  Requirements
+## 📝 Requirements
 - There are 3 color buttons: Green, Blue, Pink.  
 - When a user clicks a color button, the background changes to that color and that color becomes the **current selection**.  
 - When the user clicks **Vote Here**, the vote for the selected color increases by 1.  
@@ -31,7 +35,7 @@ Current votes for <color name>: <vote count>
 
 ---
 
-##  HTML Starter Code
+## 🖼️ HTML Starter Code
 
 ```html
 <!DOCTYPE html>
@@ -68,7 +72,7 @@ Current votes for <color name>: <vote count>
 
 ---
 
-##  JavaScript Starter Code
+## 🖥️ JavaScript Starter Code
 
 ```js
 // Step 1: Store colors and initialize vote counts
@@ -139,3 +143,7 @@ By completing this project, you will:
 
 ```
 
+---
+
+Would you like me to also **add a solution section (hidden/collapsible)** at the end (like the previous closure challenges), or keep it open-ended so students solve it fully?
+```
