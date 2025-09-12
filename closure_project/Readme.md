@@ -1,7 +1,3 @@
-Got it ✅
-Here’s a **problem statement in Markdown** format for your students. It explains the goal, breaks down the challenge, and provides starter code skeletons for them to fill in.
-
----
 
 ```markdown
 # 🎨 Challenge: Color Voting App (Using Closures & DOM)
